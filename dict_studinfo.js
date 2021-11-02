@@ -1,8 +1,8 @@
 var person = {
-    firstName: "Jyothi",
-    lastName: "M",
-    USN: 59,
-    marks1: 85,
+    firstName: "YOGESH",
+    lastName: "SULLAD",
+    USN: 012,
+    marks1: 89,
     marks2: 80,
     marks3: 90
   };
